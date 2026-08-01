@@ -1,0 +1,24 @@
+# Historial y sesión de R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# Salidas de R
+*.Rout
+
+# renv
+renv/library/
+renv/python/
+renv/staging/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Credenciales
+.httr-oauth
+.env
