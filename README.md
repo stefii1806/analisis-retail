@@ -55,4 +55,4 @@ R · mclust (GMM, EDDA, MclustSSC) · factoextra · cluster · dbscan · caret (
 
 ## 📬 Contacto
 
-[Tu Nombre Real](https://tu-portfolio.com) · [LinkedIn](https://linkedin.com/in/tu-usuario) · [tu@email.com](mailto:tu@email.com)
+[Stefania Cuicchi](https://portfolio-stefania-cuicchi.vercel.app/)) · [LinkedIn](https://linkedin.com/in/scuicchi)
